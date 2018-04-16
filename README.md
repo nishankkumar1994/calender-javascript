@@ -45,8 +45,10 @@ Run below command for buiding project.
 npm run build
 
 Enjoy!
+```
 
 Demo
 ------
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/8232117/38790648-4a057366-4160-11e8-8d78-6fbc2396933f.gif)
+* [Click Here](https://media.giphy.com/media/1fnZ1G9xLK4zkS1rNa/giphy.gif) for Demo GIF
+
 
